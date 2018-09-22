@@ -37,7 +37,7 @@ setup(
     include_package_data=True,
     exclude_package_data={"": ["*.txt"]},
 
-    install_requires=[""],
+    install_requires=["pyttsx3", ],
 
     setup_requires=["setuptools-pep8", "setuptools-lint"],
 
